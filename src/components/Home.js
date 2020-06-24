@@ -9,8 +9,9 @@ export class Home extends Component {
     render() {
         return (
             <div>
-                <Jumbotron fluid>
-                    <Container fluid>
+                <Container fluid>
+                    <Jumbotron fluid>
+
                         <Row>
                             <Col><h1>James Pierce</h1></Col>
                         </Row>
@@ -26,8 +27,12 @@ export class Home extends Component {
                         <Row>
                             <Col><h4>Physicist</h4></Col>
                         </Row>
-                    </Container>
-                </Jumbotron>
+                        <Row>
+                            <Col><h2>Looking for work!</h2></Col>
+                        </Row>
+
+                    </Jumbotron>
+                </Container>
                 <JobSearch />
             </div>
         )

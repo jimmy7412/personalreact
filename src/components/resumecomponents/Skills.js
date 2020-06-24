@@ -9,12 +9,12 @@ export class Skills extends Component {
 
     render() {
         return(
-            <div id={'skillset'}>
+            <div>
                 <h2 className={'text-center'}>Skills</h2>
                 <Container>
-                    <Row className={'row justify-content-center'}>
+                    <Row>
                         <Col sm={{size:'4'}}>
-                            <ul id={'skillSet'}>
+                            <ul>
                                 <li id={'icon'}><FontAwesomeIcon icon={faCodeBranch} size={'3x'}/></li>
                                 <li id={'listName'}><h4>Technical Skills</h4></li>
                                 <li id={'listItem'}><p>Python: PANDAs, NUMPY, ASTROPY</p></li>
@@ -26,7 +26,7 @@ export class Skills extends Component {
                             </ul>
                         </Col>
                         <Col sm={{size: '4'}}>
-                            <ul id={'skillSet'}>
+                            <ul>
                                 <li id={'icon'}><FontAwesomeIcon icon={faUser} size={'3x'}/></li>
                                 <li id={'listName'}><h4>People Skills</h4></li>
                                 <li id={'listItem'}><p>Lead small teams through many different environments, and situations to successfully accomplish the mission.</p></li>
@@ -34,7 +34,7 @@ export class Skills extends Component {
                             </ul>
                         </Col>
                         <Col sm={{size: '4'}}>
-                            <ul id={'skillSet'}>
+                            <ul>
                                 <li id={'icon'}><FontAwesomeIcon icon={faBriefcase} size={'3x'}/></li>
                                 <li id={'listName'}><h4>Office Skills</h4></li>
                                 <li id={'listItem'}><p>Experienced in Microsoft Office Suite, Google Docs, Sheets, and LaTeX.</p></li>
