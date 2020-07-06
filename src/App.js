@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {Route, Router, Switch} from 'react-router';
+import {Route, Switch} from 'react-router';
 import {Layout} from "./components/Layout";
 import {Home} from "./components/Home";
 import {Resume} from "./components/Resume";
