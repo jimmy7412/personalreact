@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Route } from 'react-router';
+import {Route, Router, Switch} from 'react-router';
 import {Layout} from "./components/Layout";
 import {Home} from "./components/Home";
 import {Resume} from "./components/Resume";
@@ -12,11 +12,13 @@ library.add(fab);
 
 function App() {
   return (
-    <Layout>
-      <Route exact path='/' component={Home} />
-      <Route path='/Resume' component={Resume} />
-      <Route path='/Projects' component={Projects} />
-    </Layout>
+      <Layout>
+          <Switch>
+              <Route exact path='/' component={Home} />
+              <Route path='/Resume' component={Resume} />
+              <Route path='/Projects' component={Projects} />
+          </Switch>
+      </Layout>
   );
 }
 

@@ -18,7 +18,7 @@ export class Footer extends Component {
 
                                 </NavItem>
                                 <NavItem>
-                                    <NavLink href={'https://www.linkedin.com/in/james-pierce-95b07573/'}><FontAwesomeIcon icon={['fab', 'linkedin']} size={'3x'} color={'black'}/> If you have a career offer, or any questions, please contact me on LinkedIn</NavLink>
+                                    <NavLink href={'https://www.linkedin.com/in/james-pierce-95b07573/'} color={'black'}><FontAwesomeIcon icon={['fab', 'linkedin']} size={'3x'} color={'black'}/> If you have a career offer, or any questions, please contact me on LinkedIn</NavLink>
                                 </NavItem>
                             </Nav>
                         </Col>

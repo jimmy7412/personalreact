@@ -12,7 +12,7 @@ export class Projects extends Component {
                     <Row className={'mt-5'}>
                         <Col sm={'9'}>
                             <AProject name='Website'
-                                      whatIs={'A website to show how my accomplishments and updates'}
+                                      whatIs={'A website to show some of my accomplishments and updates'}
                                       skills={'HTML, JSX, CSS, Javascript, React, Bootstrap, Reactstrap'}
                                       repo={'https://github.com/jimmy7412/personalreact'}
                                       color={'danger'}/>
