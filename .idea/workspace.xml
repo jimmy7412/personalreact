@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="363b2f82-558e-4775-a506-efba502ca9b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ReactInfo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SomeOrangeCat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/JobSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/JobSearch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +59,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/resumecomponents" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -48,15 +72,16 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\James Pierce\Documents\Code\personalreact\src\components" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\James Pierce\Documents\Code\personalreact\src\components" />
       <recent name="C:\Users\James Pierce\Documents\Code\personalreact\src\components\resumecomponents" />
       <recent name="C:\Users\James Pierce\Documents\Code\personalreact\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\James Pierce\Documents\Code\personalreact\src\components" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -74,6 +99,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,7 +119,11 @@
       <workItem from="1593028421537" duration="125000" />
       <workItem from="1593028954959" duration="7680000" />
       <workItem from="1593038850777" duration="3389000" />
-      <workItem from="1594073930293" duration="425000" />
+      <workItem from="1594073930293" duration="2966000" />
+      <workItem from="1595283479988" duration="4511000" />
+      <workItem from="1595291509990" duration="23000" />
+      <workItem from="1595291656037" duration="470000" />
+      <workItem from="1595882984724" duration="3789000" />
     </task>
     <task id="LOCAL-00001" summary="If I'm going to keep working on this I need to actually follow best practices">
       <created>1593029236850</created>
@@ -109,16 +139,44 @@
       <option name="project" value="LOCAL" />
       <updated>1593036043573</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20200706 - Fixed some small grammar mistakes">
+      <created>1594074599140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594074599140</updated>
+    </task>
+    <task id="LOCAL-00004" summary="20200706 - Will this run on Netlify?">
+      <created>1594075437590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594075437590</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="If I'm going to keep working on this I need to actually follow best practices" />
     <MESSAGE value="I think I feel good enough to publish this." />
-    <option name="LAST_COMMIT_MESSAGE" value="I think I feel good enough to publish this." />
+    <MESSAGE value="20200706 - Fixed some small grammar mistakes" />
+    <MESSAGE value="20200706 - Will this run on Netlify?" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200706 - Will this run on Netlify?" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593041013083">
@@ -129,37 +187,41 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1592955262142" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1593036041813">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1594075436706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593036041813" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594075436706" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595284334651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595284334651" />
     <state x="830" y="418" key="Github.ShareDialog" timestamp="1593029135862">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="830" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593029135862" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1593042243052">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1594078002842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593042243052" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1593042243052">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594078002842" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1594078002842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593042243052" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1593042243052">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594078002842" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1594078002842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593042243052" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1593042243052">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594078002842" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1594078002842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593042243052" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1593029063862">
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594078002842" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1595883128184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593029063862" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1593036047078">
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595883128184" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594075441802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593036047078" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594075441802" />
   </component>
 </project>

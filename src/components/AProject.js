@@ -11,7 +11,7 @@ export class AProject extends Component {
                 <h2>{this.props.name}</h2>
                 <h4>{this.props.whatIs}</h4>
                 <p>Skills and Tools used: {this.props.skills}</p>
-                <Button href={this.props.repo} color={this.props.color}>Repository</Button>
+                <Button href={this.props.repo} color={this.props.color} target={'_blank'}>Repository</Button>
             </div>
         )
     }
