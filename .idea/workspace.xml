@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="363b2f82-558e-4775-a506-efba502ca9b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ReactInfo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SomeOrangeCat.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/_redirect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AProject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/JobSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/JobSearch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +76,18 @@
       <recent name="C:\Users\James Pierce\Documents\Code\personalreact\src\components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.build">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
@@ -98,6 +100,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.npm start" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -123,7 +130,8 @@
       <workItem from="1595283479988" duration="4511000" />
       <workItem from="1595291509990" duration="23000" />
       <workItem from="1595291656037" duration="470000" />
-      <workItem from="1595882984724" duration="3789000" />
+      <workItem from="1595882984724" duration="4138000" />
+      <workItem from="1595906906332" duration="803000" />
     </task>
     <task id="LOCAL-00001" summary="If I'm going to keep working on this I need to actually follow best practices">
       <created>1593029236850</created>
@@ -153,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594075437590</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed a few things and updated pages.">
+      <created>1595887012349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595887012349</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,21 +191,26 @@
     <MESSAGE value="I think I feel good enough to publish this." />
     <MESSAGE value="20200706 - Fixed some small grammar mistakes" />
     <MESSAGE value="20200706 - Will this run on Netlify?" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200706 - Will this run on Netlify?" />
+    <MESSAGE value="Fixed a few things and updated pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed a few things and updated pages." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593041013083">
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595907386707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593041013083" />
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595907386707" />
+    <state x="722" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595907152109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595907152109" />
     <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592955262142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1592955262142" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1594075436706">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1595887010676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594075436706" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595887010676" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595284334651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -199,29 +219,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="830" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593029135862" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1594078002842">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1595907695499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594078002842" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1594078002842">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595907695499" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1595907695499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594078002842" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1594078002842">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595907695499" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1595907695499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594078002842" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1594078002842">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595907695499" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1595907695499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594078002842" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595907695499" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1595883128184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595883128184" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594075441802">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595887029168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594075441802" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595887029168" />
   </component>
 </project>
