@@ -16,6 +16,12 @@ export class Experience extends Component {
                         <li>Crafting software solutions using data and applicable tools.</li>
                         <li>Expanding my toolset by learning new languages and frameworks.</li>
                     </ul>
+                    <h3>U.S. Census</h3>
+                    <h4>Enumerator</h4>
+                    <h5>2020 - Present (Temporary)</h5>
+                    <ul>
+                        <li>Count people to ensure the accurate representation of persons in the United States, and the adequate distribution of resources.</li>
+                    </ul>
                     <h3>Quality Food Centers</h3>
                     <h4>E-Commerce Clerk</h4>
                     <h5>2020 - Present</h5>

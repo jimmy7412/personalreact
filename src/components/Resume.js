@@ -11,7 +11,7 @@ export class Resume extends Component {
     render() {
         return (
             <div>
-                <Container fluid>
+                <Container>
                     <h1>James Pierce</h1>
                     <Summary />
                     <Skills />
