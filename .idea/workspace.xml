@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="363b2f82-558e-4775-a506-efba502ca9b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/CheetahCamera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LiveProject.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/resumecomponents/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resumecomponents/Experience.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/resumecomponents/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resumecomponents/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/resumecomponents/skillStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resumecomponents/skillStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/JobSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/JobSearch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +137,8 @@
       <workItem from="1595882984724" duration="4138000" />
       <workItem from="1595906906332" duration="1679000" />
       <workItem from="1596212620827" duration="17000" />
-      <workItem from="1596227024964" duration="6059000" />
+      <workItem from="1596227024964" duration="6920000" />
+      <workItem from="1596745888832" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="If I'm going to keep working on this I need to actually follow best practices">
       <created>1593029236850</created>
@@ -200,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595907978296</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Finally fixed the skills off centerness.">
+      <created>1596234095382</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596234095382</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +229,8 @@
     <MESSAGE value="Fixed a few things and updated pages." />
     <MESSAGE value="Should fix the 404 error, by redirecting" />
     <MESSAGE value="Should fix the 404 error, by redirecting, maybe this will actually work..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Should fix the 404 error, by redirecting, maybe this will actually work..." />
+    <MESSAGE value="Finally fixed the skills off centerness." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally fixed the skills off centerness." />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595907386707">
@@ -241,10 +245,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1592955262142" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1595907977231">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1596234093182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595907977231" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596234093182" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595284334651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -253,29 +257,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="830" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593029135862" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1596227482461">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1596234668272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596227482461" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1596227482461">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596234668272" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1596234668271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596227482461" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1596227482461">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596234668271" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1596234668271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596227482461" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1596227482461">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596234668271" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1596234668271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596227482461" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596234668271" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1595883128184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595883128184" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595907985248">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596234099782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595907985248" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596234099782" />
   </component>
 </project>

@@ -33,6 +33,9 @@ export class Home extends Component {
 
                     </Jumbotron>
                 </Container>
+                <Container>
+                    <h5 className={'text-center'}>I'm building a new site out of Gatsby! I don't know when it'll be done but the page should look the same but it will be easier to add content and build out.</h5>
+                </Container>
                 <JobSearch />
             </div>
         )

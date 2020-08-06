@@ -15,6 +15,7 @@ export class Experience extends Component {
                     <ul>
                         <li>Crafting software solutions using data and applicable tools.</li>
                         <li>Expanding my toolset by learning new languages and frameworks.</li>
+                        <li>Building projects to solve problems and streamline workflows in everyday situations.</li>
                     </ul>
                     <h3>U.S. Census</h3>
                     <h4>Enumerator</h4>
