@@ -27,7 +27,7 @@ export class Projects extends Component {
                         <Col sm={'3'} className={'mt-5'}><img className={'img-fluid'} src={SOC} alt='Some Cat'/></Col>
                         <Col sm={'9'} className={'mt-5'}>
                             <LiveProject name='Gatsby Site'
-                                         whatIs={'A website that will display static stuff, it may become a personal news site/Blog, it is still under construction!'}
+                                         whatIs={'A website that will display static stuff, it may become a personal news site/Blog, it\'s still under construction!'}
                                          skills={'HTML, JSX, CSS, Javascript, React, Bootstrap, Reactstrap, GatsbyJS'}
                                          site={'https://laughing-hamilton-8d6ef5.netlify.app/'}
                                          repo={'https://github.com/jimmy7412/SiteGatsby'}
