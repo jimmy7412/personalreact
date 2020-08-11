@@ -18,7 +18,7 @@ export class JobSearch extends Component {
                         <tbody>
                             <tr>
                                 <th scope={'row'}>Active</th>
-                                <td>293</td>
+                                <td>298</td>
                             </tr>
                             <tr>
                                 <th scope={'row'}>Ghosted / Rejected (Greater than 100 days since last contact.)</th>
@@ -26,7 +26,7 @@ export class JobSearch extends Component {
                             </tr>
                             <tr>
                                 <th scope={'row'}>Rejected (Explicit Rejection)</th>
-                                <td>78</td>
+                                <td>83</td>
                             </tr>
                         </tbody>
                     </Table>
